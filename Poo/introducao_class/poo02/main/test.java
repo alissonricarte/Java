@@ -1,11 +1,11 @@
-package Poo.poo02.main;
+package Poo.introducao_class.poo02.main;
 
-import Poo.poo01.dominio.Estudante;
-import Poo.poo02.dominio.Professor;
+import Poo.introducao_class.poo01.dominio.Estudante;
+import Poo.introducao_class.poo02.dominio.Professor;
 
-public class main {
+public class test {
     public static void main(String[] args) {
-        Professor professor = new Professor();
+    Professor professor = new Professor();
         professor.nome ="Pedro";
         professor.idade = 39;
         professor.sexo = 'M';
@@ -17,8 +17,5 @@ public class main {
 
         System.out.println("Professor\n"+"Nome: "+professor.nome+" Idade: "+professor.idade+" Sexo: "+professor.sexo);
         System.out.println("Estudante\n"+"Nome: "+estudante.nome+" Idade : "+estudante.idade+" Sexo: "+estudante.sexo);
-
-
-
     }
 }

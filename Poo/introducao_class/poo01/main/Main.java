@@ -1,6 +1,6 @@
-package Poo.poo01.main;
+package Poo.introducao_class.poo01.main;
 
-import Poo.poo01.dominio.Estudante;
+import Poo.introducao_class.poo01.dominio.Estudante;
 
 public class Main {
     public static void main(String[] args) {

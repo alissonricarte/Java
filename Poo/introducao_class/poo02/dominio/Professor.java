@@ -1,6 +1,6 @@
-package Poo.poo01.dominio;
+package Poo.introducao_class.poo02.dominio;
 
-public class Estudante {
+public class Professor {
     public String nome;
     public int idade;
     public char sexo;
