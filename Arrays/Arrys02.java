@@ -1,4 +1,4 @@
-package Arrys;
+package Arrays;
 
 public class Arrys02 {
     //byte,short, int, long, float e double 0

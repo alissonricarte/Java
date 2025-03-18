@@ -1,4 +1,4 @@
-package Arrys;
+package Arrays;
 
 public class Arrys01 {
     public static void main(String[] args) {

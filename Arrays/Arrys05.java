@@ -1,5 +1,4 @@
-package Arrys;
-
+package Arrays;
 public class Arrys05 {
     public static void main(String[] args) {
         int[][] arrayInt = new int[3][];
