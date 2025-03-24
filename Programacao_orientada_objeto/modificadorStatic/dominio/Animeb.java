@@ -3,8 +3,8 @@ package Programacao_orientada_objeto.modificadorStatic.dominio;
 public class Animeb {
     private String nome;
     private static int[] episodio;
-    // Bloco de inicialização
-    {
+    // Bloco de inicialização quando é o static só é exercutado uma vez
+    static{
         System.out.println("bloco de inicialização");
         episodio = new int[100];
         for(int cont = 0; cont < episodio.length; cont++){
