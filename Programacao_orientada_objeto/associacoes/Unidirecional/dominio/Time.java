@@ -1,4 +1,4 @@
-package Programacao_orientada_objeto.associacoes.dominio;
+package Programacao_orientada_objeto.associacoes.Unidirecional.dominio;
 
 public class Time {
     private String nome;

@@ -1,6 +1,8 @@
-package Programacao_orientada_objeto.associacoes.dominio;
+package Programacao_orientada_objeto.associacoes.Unidirecional.dominio;
 
+//Unidericional 1 para muitos, 1 Time para varios jogadores
 public class jogador {
+
     private String nome;
     private Time time;
 

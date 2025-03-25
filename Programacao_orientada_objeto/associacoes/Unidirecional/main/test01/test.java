@@ -1,6 +1,6 @@
-package Programacao_orientada_objeto.associacoes.main.test01;
+package Programacao_orientada_objeto.associacoes.Unidirecional.main.test01;
 
-import Programacao_orientada_objeto.associacoes.dominio.jogador;
+import Programacao_orientada_objeto.associacoes.Unidirecional.dominio.jogador;
 
 public class test {
     public static void main(String[] args) {
