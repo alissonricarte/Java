@@ -20,8 +20,8 @@ public class professor {
         if(seminarios != null){
             System.out.println("##Seminarios Disponivel##");
             for(seminario seminario : this.seminarios){
-                System.out.println(seminario.getTitulo());
-                System.out.println(seminario.getLocal().getEnderreso());
+                System.out.println("Endereço: "+seminario.getLocal().getEnderreso());
+                System.out.println("Titulo: "+seminario.getTitulo());
                 if (seminario.getAlunos() != null && seminario.getAlunos().length > 0) {
                     System.out.println("##alunos##");
                     for(aluno aluno : seminario.getAlunos()){
