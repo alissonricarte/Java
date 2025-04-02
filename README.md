@@ -5,7 +5,7 @@ Este repositório contém meus estudos em Java, incluindo conceitos fundamentais
 ## 📂 Estrutura do Repositório  
 📁 **Arrays** – Estudos sobre manipulação e uso de arrays.  
 📁 **Programacao_orientada_objeto** – Conceitos e práticas de POO.  
-📁 **estrutura_repeticao** – Exercícios e exemplos sobre laços (`for`, `while`, `do-while`).  
+📁 **estrutura_repeticao** – Exercícios e exemplos sobre laços.  
 
 ## 💻 Tecnologias Utilizadas  
 - Java  
