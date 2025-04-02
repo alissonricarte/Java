@@ -1,4 +1,4 @@
-package Programacao_orientada_objeto.enumumeracao.dominio;
+package Programacao_orientada_objeto.enumeracao.dominio;
 
 public enum TipoPagamento {
     DEBITO{
@@ -13,5 +13,5 @@ public enum TipoPagamento {
         }
     };
 
-    public  abstract double calcularDesconto(double valor);
+    public abstract double calcularDesconto(double valor);
 }

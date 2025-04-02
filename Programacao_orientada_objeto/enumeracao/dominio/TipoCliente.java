@@ -1,4 +1,4 @@
-package Programacao_orientada_objeto.enumumeracao.dominio;
+package Programacao_orientada_objeto.enumeracao.dominio;
 
 public enum TipoCliente {
     PESSOA_FISICA(1,"pessoa fisica"),

@@ -1,4 +1,4 @@
-package Programacao_orientada_objeto.enumumeracao.dominio;
+package Programacao_orientada_objeto.enumeracao.dominio;
 
 
 public class Cliente {
@@ -20,7 +20,7 @@ public class Cliente {
     public String toString() {
         return "Cliente{"+"NOME: "+this.nome+
         " TIPO: "+this.tipoCliente+ 
-        " TIPOint :"+ 
+        " TIPOint : "+this.tipoCliente.getVALOR()+
         " PAGAMENTO: "+this.tipoPagamento+"}";
     }
     

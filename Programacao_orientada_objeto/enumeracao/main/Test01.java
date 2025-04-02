@@ -1,8 +1,9 @@
-package Programacao_orientada_objeto.enumumeracao.main;
+package Programacao_orientada_objeto.enumeracao.main;
 
-import Programacao_orientada_objeto.enumumeracao.dominio.Cliente;
-import Programacao_orientada_objeto.enumumeracao.dominio.TipoCliente;
-import Programacao_orientada_objeto.enumumeracao.dominio.TipoPagamento;
+
+import Programacao_orientada_objeto.enumeracao.dominio.Cliente;
+import Programacao_orientada_objeto.enumeracao.dominio.TipoCliente;
+import Programacao_orientada_objeto.enumeracao.dominio.TipoPagamento;
 
 public class Test01 {
     public static void main(String[] args) {
